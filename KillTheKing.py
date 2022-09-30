@@ -79,9 +79,9 @@ def chooseChoice():
         print("...")
         time.sleep(2)
         if probab == 1:
-            print("")
+            print("King Charles has been succesfully poisoned!")
         else:
-            print("")
+            print("The cook saw you poisoning the food. He left the room and left you to your business!")
     elif user_choice == "3" or user_choice == '#3' or user_choice == 'three':
         print("Mission Started!")
         print("...")
