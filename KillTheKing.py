@@ -87,9 +87,9 @@ def chooseChoice():
         print("...")
         time.sleep(2)
         if probab == 1:
-            print("")
+            print("The King was sleeping in his chambers. You sneaked inside and cut his throat. Good job 007!")
         else:
-            print("")
+            print("The King was wide awake with one of his dark arts master. He turned you into a goat! Better luck next time!")
     elif user_choice == "4" or user_choice == '#4' or user_choice == 'four':
         print("Mission Started!")
         print("...")
